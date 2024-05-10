@@ -19,7 +19,7 @@ Whether crafting sleek websites on WordPress or crafting compelling narratives t
 <img src="https://komarev.com/ghpvc/?username=adhaka-afk&&style=flat-square" align="center" />
 </div>    
 <br/>  
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhaka-afk&layout=compact" /></p>
 <br/>  
 <br/> 
 <br/> 
