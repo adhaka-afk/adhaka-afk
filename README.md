@@ -15,12 +15,17 @@ Whether crafting sleek websites on WordPress or crafting compelling narratives t
 - 🔭 Working on [Inception](https://github.com/adhaka-afk/Inception)  
   
 - ⚡ Fun fact: A vegetable is not really a vegetable. 'Vegetable' is just a culinary term which was used by chefs in the earlier days.
-
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=adhaka-afk&&style=flat-square" align="center" />
-</div>  
-  
+</div>    
 <br/>  
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhaka-afk&layout=compact" /></p>
+
+<br/> 
+
+<br/> 
+<br/> 
 
 ## My Skill Set  
 
@@ -38,7 +43,6 @@ Whether crafting sleek websites on WordPress or crafting compelling narratives t
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 
 ## Connect with me  
 <a href="https://github.com/adhaka-afk" target="_blank">
@@ -50,5 +54,5 @@ Whether crafting sleek websites on WordPress or crafting compelling narratives t
 <a href="https://linkedin.com/in/arvind-dhaka-8152a7294" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<br/>  
+
 
