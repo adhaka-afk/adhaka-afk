@@ -22,7 +22,6 @@ Whether crafting sleek websites on WordPress or crafting compelling narratives t
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhaka-afk&layout=compact" /></p>
 
-<br/> 
 
 <br/> 
 <br/> 
