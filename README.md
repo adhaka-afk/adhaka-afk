@@ -12,7 +12,7 @@ Whether crafting sleek websites on WordPress or crafting compelling narratives t
 
 - 🌱Currently learning Python and Go
   
-- 🔭 Working on [Inception](https://github.com/adhaka-afk/Inception)  
+- 🔭 Working on [FT_Transcendence](https://github.com/adhaka-afk/FT_Transcendence)  
   
 - ⚡ Fun fact: A vegetable is not really a vegetable. 'Vegetable' is just a culinary term which was used by chefs in the earlier days.
 <div align="right">
